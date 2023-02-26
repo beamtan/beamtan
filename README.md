@@ -2,9 +2,9 @@
 
 I'm Chayakan Tangsanga. 
 
-- Love to develop website
-- Currently learning Swift IOS development
-- I’m looking to collaborate on Mobile App Developments, Web App Developments
+- 🌱 Love to develop website
+- 🔭 Currently learning Swift IOS development
+- 😄 I’m looking to collaborate on Mobile App Developments, Web App Developments
 
 <!--
 **beamtan/beamtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
