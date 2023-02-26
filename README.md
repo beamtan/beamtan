@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8F767&width=435&lines=Welcome+to+my+workspace+!!)](https://git.io/typing-svg)
 
+I'm Chayakan Tangsanga. 
+
+- Love to develop website
+- Currently learning Swift IOS development
+- I’m looking to collaborate on Mobile App Developments, Web App Developments
+
 <!--
 **beamtan/beamtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
